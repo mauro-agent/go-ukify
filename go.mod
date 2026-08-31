@@ -6,7 +6,7 @@ require (
 	github.com/ThalesGroup/crypto11 v1.6.2
 	github.com/foxboron/go-uefi v0.0.0-20251010190908-d29549a44f29
 	github.com/google/go-tpm v0.9.8
-	github.com/onsi/ginkgo/v2 v2.32.0
+	github.com/onsi/ginkgo/v2 v2.32.1
 	github.com/onsi/gomega v1.42.1
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
